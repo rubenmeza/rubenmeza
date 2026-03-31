@@ -11,8 +11,9 @@ Fun Facts
 * I’ve integrated with Visa, Mastercard, Plaid, and Dwolla — payments are fun until they’re not
 * Built a fintech startup from scratch in Mexico — architecture, backend, frontend, mobile app, the whole thing
 * Also proficient in Node.js, TypeScript, React, Vue.js, and various databases (MySQL, PostgreSQL, MongoDB)
-* Currently getting familiar with Rust
+* Currently getting familiar with Rust and GDScript — always up for learning new languages and paradigms
 * BS in Computer Engineering from UPQ (Universidad Politecnica de Queretaro)
+* Still love writing code by hand — even in the age of robots, btw
 * From Mexico, btw
 
 Check out my [resume](./resume_2026.pdf) | Find me at [rubenmeza.com](https://rubenmeza.com) or reach out at rmezar@gmail.com
